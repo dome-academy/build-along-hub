@@ -99,7 +99,7 @@ export const weeklyItems = [
   {
     weekNumber: 2,
     startDate: "2024-10-28T00:00:00",
-    deadlineDate: "2024-11-02T11:59:00",
+    deadlineDate: "2024-11-02T23:59:00",
     lastDate: "2024-11-03T11:59:00",
     liveSessions: {
       monday: {
@@ -136,6 +136,14 @@ export const weeklyItems = [
         link: "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout",
       },
       {
+        title: "Responsive Web Design - Introduction",
+        link: "https://www.w3schools.com/css/css_rwd_intro.asp",
+      },
+      {
+        title: "CSS Media Queries Guide [CSS Tricks]",
+        link: "https://css-tricks.com/a-complete-guide-to-css-media-queries/",
+      },
+      {
         title: "Learn HTML video in 4 minutes! 🎥 [YouTube]",
         link: "https://www.youtube.com/watch?v=BAx2GaMW2qA",
       },
@@ -153,7 +161,7 @@ export const weeklyItems = [
   {
     weekNumber: 3,
     startDate: "2024-11-04T00:00:00",
-    deadlineDate: "2024-11-09T11:59:00",
+    deadlineDate: "2024-11-09T23:59:00",
     lastDate: "2024-11-10T11:59:00",
     liveSessions: {
       monday: {
