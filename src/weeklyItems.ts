@@ -3,7 +3,7 @@ export const weeklyItems = [
     weekNumber: 0,
     startDate: "2024-10-13T00:00:00",
     deadlineDate: "2024-10-19T20:00:00",
-    lastDate: "2024-10-17T11:59:00",
+    lastDate: "2024-10-20T11:59:00",
     liveSessions: {
       monday: {
         date: "21 Oct 2024",
