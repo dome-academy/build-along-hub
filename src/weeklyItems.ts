@@ -61,6 +61,14 @@ export const weeklyItems = [
         link: "https://www.freecodecamp.org/news/what-is-web-development-how-to-become-a-web-developer-2021-career-path/",
       },
       {
+        title: "Download VScode",
+        link: "https://code.visualstudio.com/download",
+      },
+      {
+        title: "Vscode Setup Guide",
+        link: "https://drive.google.com/file/d/1IlApT8_es7nVS2OGNKobBTeLyITBShcD/view",
+      },
+      {
         title: "HTML Introduction [W3Schools]",
         link: "https://www.w3schools.com/html/html_intro.asp",
       },
@@ -81,10 +89,6 @@ export const weeklyItems = [
         link: "https://www.domeinitiative.com/courses/intro-to-git-and-github",
       },
 
-      {
-        title: "Download VScode",
-        link: "https://code.visualstudio.com/download",
-      },
       {
         title: "Recordings",
         link: "https://spit.sh",
