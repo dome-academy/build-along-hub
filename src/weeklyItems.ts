@@ -91,7 +91,7 @@ export const weeklyItems = [
 
       {
         title: "Recordings",
-        link: "https://spit.sh",
+        link: "https://drive.google.com/drive/folders/1dhexNeZWRfgndIM307-P-NcddamWlXmu?usp=drive_link",
       },
     ],
     projects: {
