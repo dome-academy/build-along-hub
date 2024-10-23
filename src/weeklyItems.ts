@@ -95,8 +95,8 @@ export const weeklyItems = [
       },
     ],
     projects: {
-      capStoneUpdate: "https://buildalong.domeinitiative.com/hub/w/1/submit",
-      weekProject: "https://buildalong.domeinitiative.com/hub/w/1/cap",
+      capStoneUpdate: "https://buildalong.domeinitiative.com/hub/w/1/cap",
+      weekProject: "https://buildalong.domeinitiative.com/hub/w/1/submit",
     },
   },
   // Week 2
@@ -162,8 +162,8 @@ export const weeklyItems = [
       },
     ],
     projects: {
-      capStoneUpdate: "https://buildalong.domeinitiative.com/hub/w/2/submit",
-      weekProject: "https://buildalong.domeinitiative.com/hub/w/2/cap",
+      capStoneUpdate: "https://buildalong.domeinitiative.com/hub/w/2/cap",
+      weekProject: "https://buildalong.domeinitiative.com/hub/w/2/submit",
     },
   },
   // Week 3
