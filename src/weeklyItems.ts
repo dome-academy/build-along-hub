@@ -95,8 +95,8 @@ export const weeklyItems = [
       },
     ],
     projects: {
-      capStoneUpdate: "https://spit.sh",
-      weekProject: "https://spit.sh",
+      capStoneUpdate: "https://buildalong.domeinitiative.com/hub/w/1/submit",
+      weekProject: "https://buildalong.domeinitiative.com/hub/w/1/cap",
     },
   },
   // Week 2
@@ -162,8 +162,8 @@ export const weeklyItems = [
       },
     ],
     projects: {
-      capStoneUpdate: "https://spit.sh",
-      weekProject: "https://spit.sh",
+      capStoneUpdate: "https://buildalong.domeinitiative.com/hub/w/2/submit",
+      weekProject: "https://buildalong.domeinitiative.com/hub/w/2/cap",
     },
   },
   // Week 3
