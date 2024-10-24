@@ -77,6 +77,10 @@ export const weeklyItems = [
         link: "https://www.youtube.com/watch?v=it1rTvBcfRg",
       },
       {
+        title: "Learn HTML for Beginners - W3Schools.com [YouTube]",
+        link: "https://www.youtube.com/watch?v=BzYMFd-lQL4",
+      },
+      {
         title: "What is CSS? [MDN Web Docs]",
         link: "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS",
       },
