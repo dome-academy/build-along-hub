@@ -20,7 +20,11 @@ const ProjectModal: FC<ProjectModalProps> = ({ open, setOpen, projects }) => {
           </a>
         </li>
         <li>
-          <a target='_blank' className='modal-link' href={projects.weekProject}>
+          <a
+            target='_blank'
+            className='modal-link'
+            href={projects.capStoneUpdate}
+          >
             Submit capstone project update
           </a>
         </li>
