@@ -137,8 +137,13 @@ export const weeklyItems = [
         link: "https://domeacademy.substack.com/p/simple-git-commands-every-developer",
       },
       {
-        title: "Push Code to your GitHub Account - Under 3 Minutes",
+        title: "Push Code to your GitHub Account - Under 3 Minutes [YouTube]",
         link: "https://www.youtube.com/watch?v=vpRkAoCqX3o",
+      },
+      {
+        title:
+          "How to Push Code to Github from Visual Studio Code (2023) [YouTube]",
+        link: "https://www.youtube.com/watch?v=jT9QEUOX00w",
       },
       {
         title: "Netlify Tutorial –Deploying from Git [YouTube]",
