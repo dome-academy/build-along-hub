@@ -128,9 +128,17 @@ export const weeklyItems = [
     },
     resources: [
       {
+        title: "How to Host Your Website on Netlify (Uploading) [YouTube]",
+        link: "https://www.youtube.com/watch?v=y71SR-KcZCg",
+      },
+      {
         title:
           "Simple Git Commands Every Developer Must Know [Dome Academy Bytes]",
         link: "https://domeacademy.substack.com/p/simple-git-commands-every-developer",
+      },
+      {
+        title: "Netlify Tutorial –Deploying from Git [YouTube]",
+        link: "https://www.youtube.com/watch?v=4h8B080Mv4U",
       },
       {
         title: "The Box Model [MDN Web Docs]",
