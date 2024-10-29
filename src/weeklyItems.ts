@@ -154,6 +154,10 @@ export const weeklyItems = [
         link: "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model",
       },
       {
+        title: "HTML & CSS Crash Course Tutorial [YouTube]",
+        link: "https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G",
+      },
+      {
         title: "CSS classes [CSS tricks]",
         link: "https://css-tricks.com/almanac/selectors/c/class/",
       },
