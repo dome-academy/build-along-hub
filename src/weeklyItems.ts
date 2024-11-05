@@ -233,12 +233,12 @@ export const weeklyItems = [
       },
       {
         title: "Recordings",
-        link: "https://spit.sh",
+        link: "https://drive.google.com/drive/folders/16HdtEb8pkLLI9dxntEADJKbQuZCmrJOx?usp=drive_link",
       },
     ],
     projects: {
-      capStoneUpdate: "https://spit.sh",
-      weekProject: "https://spit.sh",
+      capStoneUpdate: "https://buildalong.domeinitiative.com/hub/w/3/cap",
+      weekProject: "https://buildalong.domeinitiative.com/hub/w/3/submit",
     },
   },
   // Week 4
@@ -300,8 +300,8 @@ export const weeklyItems = [
       },
     ],
     projects: {
-      capStoneUpdate: "https://spit.sh",
-      weekProject: "https://spit.sh",
+      capStoneUpdate: "https://buildalong.domeinitiative.com/hub/w/4/cap",
+      weekProject: "https://buildalong.domeinitiative.com/hub/w/4/submit",
     },
   },
   // Week 5
@@ -360,8 +360,8 @@ export const weeklyItems = [
       },
     ],
     projects: {
-      capStoneUpdate: "https://spit.sh",
-      weekProject: "https://spit.sh",
+      capStoneUpdate: "https://buildalong.domeinitiative.com/hub/w/5/cap",
+      weekProject: "https://buildalong.domeinitiative.com/hub/w/5/submit",
     },
   },
 ];
