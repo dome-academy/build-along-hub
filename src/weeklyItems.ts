@@ -224,6 +224,18 @@ export const weeklyItems = [
         link: "https://css-tricks.com/snippets/css/complete-guide-grid/",
       },
       {
+        title: "Flexbox or Grid in CSS - Differentiate Easily With Examples",
+        link: "https://www.youtube.com/watch?v=41ZBkZUVApc",
+      },
+      {
+        title: "CSS Grid Tutorial [Net Ninja - YouTube]",
+        link: "https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY",
+      },
+      {
+        title: "CSS Grid in 100 seconds",
+        link: "https://www.youtube.com/watch?v=uuOXPWCh-6o",
+      },
+      {
         title: "CSS Animations [W3Schools]",
         link: "https://www.w3schools.com/css/css3_animations.asp",
       },
