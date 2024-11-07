@@ -232,6 +232,10 @@ export const weeklyItems = [
         link: "https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY",
       },
       {
+        title: "Learn Flexbox CSS in 8 minutes [YouTube]",
+        link: "https://www.youtube.com/watch?v=phWxA89Dy94",
+      },
+      {
         title: "CSS Grid in 100 seconds",
         link: "https://www.youtube.com/watch?v=uuOXPWCh-6o",
       },
