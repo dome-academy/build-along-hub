@@ -358,7 +358,7 @@ export const weeklyItems = [
         link: "https://www.programiz.com/javascript/recursion",
       },
       {
-        title: "JavaScript Recursion [Programiz]",
+        title: "Dom Manipulation [MDN Docs]",
         link: "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents",
       },
       {
@@ -372,7 +372,7 @@ export const weeklyItems = [
       },
       {
         title: "Recordings",
-        link: "https://spit.sh",
+        link: "https://drive.google.com/drive/folders/1vArR-C1iHD344JqZCDQmtnKaMB1-FCM1?usp=sharing",
       },
     ],
     projects: {
