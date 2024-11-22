@@ -380,4 +380,71 @@ export const weeklyItems = [
       weekProject: "https://buildalong.domeinitiative.com/hub/w/5/submit",
     },
   },
+  {
+    weekNumber: 6,
+    startDate: "2024-11-25T00:00:00",
+    deadlineDate: "2024-11-30T23:59:59",
+    lastDate: "2024-12-01T23:59:59",
+    liveSessions: {
+      monday: {
+        date: "25 Nov 2024",
+        time: "8PM",
+        link: "https://lu.ma/1syi46nr",
+      },
+      wednesday: {
+        date: "27 Nov 2024",
+        time: "8PM",
+        link: "https://lu.ma/788rwf2y",
+      },
+      friday: {
+        date: "29 Nov 2024",
+        time: "8PM",
+        link: "https://lu.ma/c8otdgpr",
+      },
+    },
+    resources: [
+      {
+        title: "JavaScript Array [Programmiz]",
+        link: "https://www.programiz.com/javascript/array",
+      },
+      {
+        title: "JavaScript Array Methods [W3Schools]",
+        link: "https://www.w3schools.com/js/js_array_methods.asp",
+      },
+      {
+        title: "JavaScript Objects [Programmiz]",
+        link: "https://www.programiz.com/javascript/object",
+      },
+      {
+        title: "JavaScript Object Properties [W3Schools]",
+        link: "https://www.w3schools.com/js/js_object_property.asp",
+      },
+      {
+        title: "JavaScript Array of Objects Tutorial [freeCodeCamp]",
+        link: "https://www.freecodecamp.org/news/javascript-array-of-objects-tutorial-how-to-create-update-and-loop-through-objects-using-js-array-methods/",
+      },
+
+      {
+        title: "How to Access Array of Objects in JavaScript [Geeks for Geeks]",
+        link: "https://www.geeksforgeeks.org/how-to-access-array-of-objects-in-javascript/",
+      },
+      {
+        title: "JavaScript ARRAYS of OBJECTS are easy! 🌳 [YouTube]",
+        link: "https://www.youtube.com/watch?v=w9078dAjcrY",
+      },
+      {
+        title:
+          "How To Create To-Do List App Using HTML CSS And JavaScript | Task App In JavaScript [YouTube]",
+        link: "https://www.youtube.com/watch?v=G0jO8kUrg-I",
+      },
+      {
+        title: "Recordings",
+        link: "https://drive.google.com/drive/folders/1vArR-C1iHD344JqZCDQmtnKaMB1-FCM1?usp=sharing",
+      },
+    ],
+    projects: {
+      capStoneUpdate: "https://buildalong.domeinitiative.com/hub/w/5/cap",
+      weekProject: "https://buildalong.domeinitiative.com/hub/w/5/submit",
+    },
+  },
 ];
