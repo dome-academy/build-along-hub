@@ -443,8 +443,8 @@ export const weeklyItems = [
       },
     ],
     projects: {
-      capStoneUpdate: "https://buildalong.domeinitiative.com/hub/w/5/cap",
-      weekProject: "https://buildalong.domeinitiative.com/hub/w/5/submit",
+      capStoneUpdate: "https://buildalong.domeinitiative.com/hub/w/6/cap",
+      weekProject: "https://buildalong.domeinitiative.com/hub/w/6/submit",
     },
   },
 ];
