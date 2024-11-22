@@ -448,4 +448,78 @@ export const weeklyItems = [
       weekProject: "https://buildalong.domeinitiative.com/hub/w/6/submit",
     },
   },
+  // Week 7
+  {
+    weekNumber: 7,
+    startDate: "2024-12-02T00:00:00",
+    deadlineDate: "2024-12-07T23:59:59",
+    lastDate: "2024-12-08T23:59:59",
+    liveSessions: {
+      monday: {
+        date: "2 Dec 2024",
+        time: "8PM",
+        link: "https://lu.ma/elpksvvj",
+      },
+      wednesday: {
+        date: "4 Dec 2024",
+        time: "8PM",
+        link: "https://lu.ma/3qxs1ce1",
+      },
+      friday: {
+        date: "6 Dec 2024",
+        time: "8PM",
+        link: "https://lu.ma/ygfiib0c",
+      },
+    },
+    resources: [
+      {
+        title: "What is an API (application programming interface)? [IBM]",
+        link: "https://www.ibm.com/topics/api",
+      },
+      {
+        title:
+          "How to Use Async/Await in JavaScript - Explained with Code Examples [freeCodeCamp]",
+        link: "https://www.freecodecamp.org/news/javascript-async-await/",
+      },
+      {
+        title: "Web APIs - Introduction [W3Schools]",
+        link: "https://www.w3schools.com/js/js_api_intro.asp",
+      },
+      {
+        title: "Using the Fetch API [MDN web docs]",
+        link: "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch",
+      },
+      {
+        title: "Asynchronous JavaScript Tutorial [YouTube]",
+        link: "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu",
+      },
+
+      {
+        title: "How to FETCH data from an API using JavaScript ↩️ [YouTube]",
+        link: "https://www.youtube.com/watch?v=37vxWr0WgQk",
+      },
+      {
+        title: "Fetch API Introduction [YouTube]",
+        link: "https://www.youtube.com/watch?v=Oive66jrwBs",
+      },
+      {
+        title:
+          "Fetch API JavaScript in Easiest way | Fetch API Tutorial [YouTube]",
+        link: "https://www.youtube.com/watch?v=Pnlt1NiBt68",
+      },
+      {
+        title:
+          "JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue [YouTube]",
+        link: "https://www.youtube.com/watch?v=eiC58R16hb8",
+      },
+      {
+        title: "Recordings",
+        link: "https://drive.google.com/drive/folders/1vArR-C1iHD344JqZCDQmtnKaMB1-FCM1?usp=sharing",
+      },
+    ],
+    projects: {
+      capStoneUpdate: "https://buildalong.domeinitiative.com/hub/w/7/cap",
+      weekProject: "https://buildalong.domeinitiative.com/hub/w/7/submit",
+    },
+  },
 ];
