@@ -380,6 +380,7 @@ export const weeklyItems = [
       weekProject: "https://buildalong.domeinitiative.com/hub/w/5/submit",
     },
   },
+  // Week 6
   {
     weekNumber: 6,
     startDate: "2024-11-25T00:00:00",
