@@ -440,7 +440,7 @@ export const weeklyItems = [
       },
       {
         title: "Recordings",
-        link: "https://drive.google.com/drive/folders/1vArR-C1iHD344JqZCDQmtnKaMB1-FCM1?usp=sharing",
+        link: "https://drive.google.com/drive/folders/1t79epD6lniD9i3GzBuMsiHm0wXyOQrmI?usp=drive_link",
       },
     ],
     projects: {
