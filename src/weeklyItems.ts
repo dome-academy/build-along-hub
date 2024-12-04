@@ -522,4 +522,73 @@ export const weeklyItems = [
       weekProject: "https://buildalong.domeinitiative.com/hub/w/7/submit",
     },
   },
+  // Week 8
+  {
+    weekNumber: 8,
+    startDate: "2024-12-09T00:00:00",
+    deadlineDate: "2024-12-14T23:59:59",
+    lastDate: "2024-12-15T23:59:59",
+    liveSessions: {
+      monday: {
+        date: "9 Dec 2024",
+        time: "8PM",
+        link: "https://lu.ma/elpksvvj",
+      },
+      wednesday: {
+        date: "11 Dec 2024",
+        time: "8PM",
+        link: "https://lu.ma/3qxs1ce1",
+      },
+      friday: {
+        date: "13 Dec 2024",
+        time: "8PM",
+        link: "https://lu.ma/ygfiib0c",
+      },
+    },
+    resources: [
+      {
+        title: "What is an API (application programming interface)? [IBM]",
+        link: "https://www.ibm.com/topics/api",
+      },
+      {
+        title:
+          "How to Use Async/Await in JavaScript - Explained with Code Examples [freeCodeCamp]",
+        link: "https://www.freecodecamp.org/news/javascript-async-await/",
+      },
+      {
+        title: "Using the Fetch API [MDN web docs]",
+        link: "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch",
+      },
+      {
+        title: "Asynchronous JavaScript Tutorial [YouTube]",
+        link: "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu",
+      },
+      {
+        title: "How to FETCH data from an API using JavaScript ↩️ [YouTube]",
+        link: "https://www.youtube.com/watch?v=37vxWr0WgQk",
+      },
+      {
+        title: "Fetch API Introduction [YouTube]",
+        link: "https://www.youtube.com/watch?v=Oive66jrwBs",
+      },
+      {
+        title:
+          "How To Make Weather App Using JavaScript Step By Step Explained [YouTube]",
+        link: "https://www.youtube.com/watch?v=MIYQR-Ybrn4",
+      },
+      {
+        title:
+          "HTTP Post Request with fetch() - Working with Data and APIs in JavaScript [YouTube]",
+        link: "https://www.youtube.com/watch?v=Kw5tC5nQMRY",
+      },
+      {
+        title: "Recordings",
+        link: "https://drive.google.com/drive/folders/1vArR-C1iHD344JqZCDQmtnKaMB1-FCM1?usp=sharing",
+      },
+    ],
+    projects: {
+      capStoneUpdate: "https://buildalong.domeinitiative.com/hub/w/7/cap",
+      weekProject: "https://buildalong.domeinitiative.com/hub/w/7/submit",
+    },
+  },
 ];
