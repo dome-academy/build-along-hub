@@ -514,7 +514,7 @@ export const weeklyItems = [
       },
       {
         title: "Recordings",
-        link: "https://drive.google.com/drive/folders/1vArR-C1iHD344JqZCDQmtnKaMB1-FCM1?usp=sharing",
+        link: "https://drive.google.com/drive/folders/142OXhTngnOIXC5XvB3CXSNk1McgGHk72?usp=sharing",
       },
     ],
     projects: {
